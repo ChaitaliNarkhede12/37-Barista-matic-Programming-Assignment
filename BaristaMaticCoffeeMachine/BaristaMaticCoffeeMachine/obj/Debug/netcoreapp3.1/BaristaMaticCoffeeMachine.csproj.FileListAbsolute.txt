@@ -1,0 +1,14 @@
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\bin\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.exe
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\bin\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.deps.json
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\bin\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.runtimeconfig.json
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\bin\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.runtimeconfig.dev.json
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\bin\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.dll
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\bin\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.pdb
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\obj\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.csproj.AssemblyReference.cache
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\obj\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\obj\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\obj\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.AssemblyInfo.cs
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\obj\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\obj\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.dll
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\obj\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.pdb
+C:\Users\Chaitali_Narkhede\Desktop\Encora Test\BaristaMaticCoffeeMachine\BaristaMaticCoffeeMachine\obj\Debug\netcoreapp3.1\BaristaMaticCoffeeMachine.genruntimeconfig.cache
